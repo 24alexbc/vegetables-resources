@@ -1,0 +1,7 @@
+section{
+    display: flex;
+    justify-content: space-around;
+    background-color: #E0E6A8;
+    margin: 20px;
+    padding-bottom: 10px;
+}
